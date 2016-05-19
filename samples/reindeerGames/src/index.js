@@ -21,245 +21,141 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
+        "Which rare gas is the most common in the atmosphere?": [
+            "argon",
+            "helium",
+            "neon",
+            "xenon",
+            "radon"
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "Which metal is added to fireworks to make them brilliant red?": [
+            "strontium",
+            "barium",
+            "copper",
+            "potassium",
+            "iron"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "On a clear, moonless night, it is possible to see by sky light. From where does this light come?": [
+            "chemiluminescent chemical reactions",
+            "the stars",
+            "the big bang",
+            "solar wind"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "What is butter of arsenic?": [
+            "arsenous acid",
+            "poisoned butter",
+            "yellow arsenic",
+            "arsenic trichloride"
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "Who discovered actinium?": [
+            "Marie Curie",
+            "Glenn Seaborg",
+            "Andre-Louis Debierne",
+            "Pierre Curie"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "What intermolecular forces do geckos use to stick to walls and ceilings?": [
+            "van der Waals forces",
+            "hydrogen bonding",
+            "dipole-dipole attractions",
+            "static ionic attractions"
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
+        "Which radioactive element is used in household fire detectors?": [
+            "americium",
+            "thorium",
+            "curium",
+            "neptunium"
         ]
     },
     {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
+        "In Fahrenheit, what is the coldest possible temperature?": [
+            "-459.7",
+            "0",
+            "32",
+            "-500"
         ]
     },
     {
-        "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-            "Montgomery Ward",
-            "Sears",
-            "Macys",
-            "Kmart"
+        "What does the candela measure?": [
+            "luminance",
+            "power",
+            "magnetism",
+            "combustion rate"
         ]
     },
     {
-        "Santa's reindeer named Donner was originally named what?": [
-            "Dunder",
-            "Donny",
-            "Dweedle",
-            "Dreamy"
+        "What is the modern name for alabamine?": [
+            "astatine",
+            "francium",
+            "niobium",
+            "technetium"
         ]
     },
     {
-        "Who invented the story of Rudolph?": [
-            "Robert May",
-            "Johnny Marks",
-            "Santa",
-            "J.K. Rowling"
+        "Which element has the largest atoms?": [
+            "cesium",
+            "uranium",
+            "francium",
+            "radon"
         ]
     },
     {
-        "In what location will you not find reindeer?": [
-            "North Pole",
-            "Lapland",
-            "Korvatunturi mountain",
-            "Finland"
+        "If gold becomes whiter after remelting and heating it, what does it contain?": [
+            "silver",
+            "copper",
+            "lead",
+            "tin"
         ]
     },
     {
-        "What Makes Santa's Reindeer Fly?": [
-            "Magical Reindeer Dust",
-            "Fusion",
-            "Amanita muscaria",
-            "Elves"
+        "What is a doubly magic nucleus?": [
+            "nuclei with a full shell of protons and a full shell of neutrons",
+            "a nucleus with a lobed shape",
+            "a nucleus with two magical spins",
+            "a nucleus that is both radioactive and stable"
         ]
     },
     {
-        "Including Rudolph, how many reindeer hooves are there?": [
-            "36",
-            "24",
-            "16",
-            "8"
+        "Which element conducts electricity the best at room temperature?": [
+            "silver", 
+            "gold",
+            "platinum",
+            "lead"
         ]
     },
     {
-        "Santa only has one female reindeer. Which one is it?": [
-            "Vixen",
-            "Clarice",
-            "Cupid",
-            "Cupid"
+        "Which pH is considered acid rain?": [
+            "4",
+            "8",
+            "6",
+            "5"
         ]
     },
     {
-        "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-            "Sam",
-            "Frosty",
-            "Burl",
-            "Snowy"
+        "Which poison sometimes contaminates peanuts?": [
+            "ricin",
+            "cyanide",
+            "botulinum toxin",
+            "aflatoxin"
         ]
     },
     {
-        "What was Rudolph's father's name?": [
-            "Donner",
-            "Dasher",
-            "Blixen",
-            "Comet"
-        ]
-    },
-    {
-        "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-            "Comet",
-            "Blixen",
-            "Donner",
-            "Dasher"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-            "Fireball",
-            "Clarice",
-            "Jumper",
-            "Vixen"
-        ]
-    },
-    {
-        "In the 1964 movie, How did Donner, Rudolph's father, try to hide Rudolph's nose?": [
-            "Black mud",
-            "Bag",
-            "Pillow case",
-            "Sock"
-        ]
-    },
-    {
-        "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-            "Dentist",
-            "Reindeer",
-            "Toy maker",
-            "Candlestick maker"
-        ]
-    },
-    {
-        "In the 1964 movie,what was the Bumble's one weakness?": [
-            "Could not swim",
-            "Always hungry",
-            "Candy canes",
-            "Cross eyed"
-        ]
-    },
-    {
-        "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-            "Peppermint",
-            "Gold",
-            "India",
-            "Polar Bears"
-        ]
-    },
-    {
-        "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-            "Square wheels",
-            "No Engine",
-            "Paint does not match",
-            "It does not toot"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the Jack in the Box?": [
-            "Charlie",
-            "Sam",
-            "Billy",
-            "Jack"
-        ]
-    },
-    {
-        "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-            "Storm",
-            "No snow",
-            "No toys",
-            "The Reindeer were sick"
-        ]
-    },
-    {
-        "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-            "Oink",
-            "Growl",
-            "Bark",
-            "Meow"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the prospector?": [
-            "Yukon Cornelius",
-            "Slider Sam",
-            "Bumble",
-            "Jack"
-        ]
-    },
-    {
-        "How far do reindeer travel when they migrate?": [
-            "3000 miles",
-            "700 miles",
-            "500 miles",
-            "0 miles"
-        ]
-    },
-    {
-        "How fast can a reindeer run?": [
-            "48 miles per hour",
-            "17 miles per hour",
-            "19 miles per hour",
-            "14 miles per hour"
+        "What is aqua regia?": [
+            "supercooled water",
+            "a purple pigment",
+            "a hormone produced by queen bees",
+            "an acid mixture that dissolves gold"
         ]
     }
 ];
